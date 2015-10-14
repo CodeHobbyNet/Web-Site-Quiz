@@ -1,0 +1,16 @@
+td
+{
+	border: 1px solid grey;
+}
+
+#mainTable
+{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#quizData
+{
+	width: 80%;
+}
